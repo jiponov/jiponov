@@ -1,17 +1,27 @@
-<h1 align="left">Hey 👋, I'm Lubomir! Nice to meet you!</h1>
-<h3 align="left">I enjoy playing football, reading about SEO, digital marketing, engaging in social activities, and above all, spending time with my family.</h3>
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lubomirjiponov/) 
-[![GitHub](https://img.shields.io/badge/-Github-000000?style=flat-square&logo=Github&logoColor=white)](https://github.com/jiponov)
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jiponov)
-
-<p align="left">• 🌱 I’m currently learning JavaScript.</p>
-<p align="left">• ⚡ Fun fact: I love coding!</p>
-<p align="left">• 📫 Reach me: lubomir.jiponov@gmail.com</p>
-
-<p>
-  <!-- <summary>:zap: GitHub Stats</summary> -->
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=jiponov&show_icons=true&locale=en" />
-  <img height="180em" alt="My GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiponov&langs_count=8&layout=compact" />
+<p align="center">
+<a href="https://github.com/jiponov/jiponov"><img src="https://github.com/jiponov/jiponov/blob/master/jiponov.jpg" alt="jiponov lubomir" style="width:1500px;height:500px;"></a>
 </p>
+
+<p align="left">Hey 👋🏻,
+
+I'm Lubomir! Nice to meet you! 
+I enjoy playing football, reading about SEO, digital marketing, 
+engaging in social activities, and above all, spending time with my family.</p>
+
+<p align="left">🌱 I’m currently learning JavaScript.</p>
+<p align="left">⚡ Fun fact: I love coding!</p>
+
+## 📬 Get in touch
+
+- LinkedIn: [linkedin.com/in/lubomirjiponov]
+- Email: lubomir.jiponov@gmail.com
+
+## &#x1f4c8; My GitHub Stats
+
+<a href="https://github.com/jiponov/jiponov">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiponov&langs_count=8&layout=compact&title_color=000000&text_color=000000" />
+</a>
+
+<a href="https://github.com/jiponov/jiponov">
+  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jiponov&show_icons=true&line_height=27&locale=en&title_color=000000&text_color=000000&icon_color=62b4f5" alt="jiponov's GitHub Stats" />
+</a>
