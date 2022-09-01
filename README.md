@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/jiponov"><img src="https://github.com/jiponov/jiponov/blob/master/jiponov.jpg" alt="jiponov lubomir"></a>
+<a href="https://github.com/jiponov"><img src="https://github.com/jiponov/jiponov/blob/master/jiponov-cover.jpg" alt="jiponov lubomir"></a>
 </p>
 
 <p align="left">Hey 👋🏻,
