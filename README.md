@@ -25,5 +25,3 @@ engaging in social activities, and above all, spending time with my family.</p>
 <a href="https://github.com/jiponov/jiponov">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jiponov&show_icons=true&line_height=27&locale=en&title_color=000000&text_color=000000&icon_color=62b4f5" alt="jiponov's GitHub Stats" />
 </a>
-
-<a href="https://www.facebook.com/lubomirjiponovphotography/" target="_blank" rel="noopener">Facebook page: Lubomir Jiponov Photography</a>
