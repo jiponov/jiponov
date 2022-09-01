@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://github.com/jiponov/jiponov"><img src="https://github.com/jiponov/jiponov/blob/master/jiponov.jpg" alt="jiponov lubomir" style="width:1500px;height:500px;"></a>
+<a href="https://github.com/jiponov"><img src="https://github.com/jiponov/jiponov/blob/master/jiponov.jpg" alt="jiponov lubomir"></a>
 </p>
 
 <p align="left">Hey 👋🏻,
@@ -13,7 +13,7 @@ engaging in social activities, and above all, spending time with my family.</p>
 
 ## 📬 Get in touch
 
-- LinkedIn: [linkedin.com/in/lubomirjiponov]
+- LinkedIn: https://www.linkedin.com/in/lubomirjiponov
 - Email: lubomir.jiponov@gmail.com
 
 ## &#x1f4c8; My GitHub Stats
@@ -21,7 +21,7 @@ engaging in social activities, and above all, spending time with my family.</p>
 <a href="https://github.com/jiponov/jiponov">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiponov&langs_count=8&layout=compact&title_color=000000&text_color=000000" />
 </a>
-
+<br>
 <a href="https://github.com/jiponov/jiponov">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=jiponov&show_icons=true&line_height=27&locale=en&title_color=000000&text_color=000000&icon_color=62b4f5" alt="jiponov's GitHub Stats" />
 </a>
