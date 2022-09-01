@@ -29,7 +29,7 @@ engaging in social activities, and above all, spending time with my family.
     <a href="https://nodejs.org" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> </a>
   </p>
 
-## &#x1f4c8; My GitHub Stats
+## My GitHub Stats
 
 <a href="https://github.com/jiponov/jiponov">
   <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiponov&langs_count=8&layout=compact&title_color=62b4f5&text_color=ffffff&bg_color=000000" />
