@@ -13,6 +13,8 @@ engaging in social activities, and above all, spending time with my family.
 
 <p align="left">🌱 I’m currently learning JavaScript.</p>
 <p align="left">👨‍💻 Fun fact: I love coding!</p>
+<p align="left">🎓 Diplom degree: Master of Science in Civil Engineering</p>
+<p align="left">⭐ International award-winning wedding photographer</p>
 
 ## Get in touch
 
