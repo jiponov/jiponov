@@ -18,9 +18,7 @@ engaging in social activities, and above all, spending time with my family.
 
 ## Get in touch
 
-- LinkedIn: <a href="https://www.linkedin.com/in/lubomirjiponov" target="_blank" rel="noopener">linkedin.com/in/lubomirjiponov</a> 
-
-- Email: lubomir.jiponov@gmail.com
+- LinkedIn: <a href="https://www.linkedin.com/in/lubomirjiponov" target="_blank" rel="noopener">linkedin.com/in/lubomirjiponov</a>
 
 ## Languages & Tools
 
