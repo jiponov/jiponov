@@ -7,8 +7,6 @@
 <p align="left">Hey 👋🏻,
 
 I'm Lubomir! Nice to meet you! 
-I enjoy playing football, reading about SEO, digital marketing, 
-engaging in social activities, and above all, spending time with my family.
 </p>
 
 <p align="left">🌱 I’m currently learning JavaScript.</p>
