@@ -16,8 +16,8 @@ I'm Lubomir! Nice to meet you!
 
 ## Get in touch
 
-💼 LinkedIn: <a href="https://www.linkedin.com/in/jiponov" target="_blank" rel="noopener">linkedin.com/in/jiponov</a>
-📧 Email address: <a href="mailto:lubomir.jiponov@gmail.com">lubomir.jiponov@gmail.com</a>
+<p align="left">💼 LinkedIn: <a href="https://www.linkedin.com/in/jiponov" target="_blank" rel="noopener">linkedin.com/in/jiponov</a></p>
+<p align="left">📧 Email address: <a href="mailto:lubomir.jiponov@gmail.com">lubomir.jiponov@gmail.com</a></p>
 
 ## Languages & Tools
 
