@@ -9,14 +9,15 @@
 I'm Lubomir! Nice to meet you! 
 </p>
 
-<p align="left">🌱 I’m currently learning JavaScript.</p>
+<p align="left">🌱 I’m currently learning JavaScript & Java.</p>
 <p align="left">👨‍💻 Fun fact: I love coding!</p>
 <p align="left">🎓 Diplom degree: Master of Science in Civil Engineering</p>
 <p align="left">⭐ International award-winning wedding photographer</p>
 
 ## Get in touch
 
-- LinkedIn: <a href="https://www.linkedin.com/in/jiponov" target="_blank" rel="noopener">linkedin.com/in/jiponov</a>
+💼 LinkedIn: <a href="https://www.linkedin.com/in/jiponov" target="_blank" rel="noopener">linkedin.com/in/jiponov</a>
+📧 Email address: <a href="mailto:lubomir.jiponov@gmail.com">lubomir.jiponov@gmail.com</a>
 
 ## Languages & Tools
 
