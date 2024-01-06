@@ -19,7 +19,7 @@ I'm Lubomir! Nice to meet you!
 <p align="left">💼 LinkedIn: <a href="https://www.linkedin.com/in/jiponov" target="_blank" rel="noopener">linkedin.com/in/jiponov</a></p>
 <p align="left">📧 Email address: <a href="mailto:lubomir.jiponov@gmail.com">lubomir.jiponov@gmail.com</a></p>
 
-## Languages & Tools
+## Technologies & Tools
 
 <p align="left">
     <a href="https://www.w3.org/html/" target="_blank" rel="noopener"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
