@@ -34,8 +34,8 @@ I'm Lubomir! Nice to meet you!
     <a href="https://www.mongodb.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/mongodb-48x48.png" alt="MongoDB" style="max-width: 100%;"></a>
     <a href="https://mochajs.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/mocha-48x48.png" alt="Mocha" style="max-width: 100%;"></a>
     <a href="https://www.npmjs.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/npm-48x48.png" alt="npm" style="max-width: 100%;"></a>
-    <a href="https://git-scm.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/git-48x48.png" alt="Git" style="max-width: 100%;"></a>
     <a href="https://github.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/github-48x48.png" alt="GitHub" style="max-width: 100%;"></a>
+    <a href="https://git-scm.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/git-48x48.png" alt="Git" style="max-width: 100%;"></a>    
     <a href="https://www.postman.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/postman-48x48.png" alt="Postman" style="max-width: 100%;"></a>
   </p>
   
