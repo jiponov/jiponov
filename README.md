@@ -22,7 +22,7 @@ I'm Lubomir! Nice to meet you!
 ## Technologies & Tools
 
 <p align="left">
-    <a href="https://www.oracle.com/java" target="_blank" rel="noopener nofollow noreferrer"><img src="/jiponov/jiponov/tree/master/icons/java-64x64.png" alt="Java" style="max-width: 100%;"></a>
+    <a href="https://www.oracle.com/java" target="_blank" rel="noopener nofollow noreferrer"><img src="/jiponov/jiponov/tree/master/icons/java-64x64.png" alt="Java" style="max-width: 100%"></a>
   </p>
 
 ## My GitHub Stats
