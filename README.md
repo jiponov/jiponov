@@ -23,8 +23,7 @@ I'm Lubomir! Nice to meet you!
 
 <p align="left">
     <a href="https://www.oracle.com/java" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/java-48x48.png" alt="Java" style="max-width: 100%;"></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/javascript-48x48.png" alt="JavaScript" style="max-width: 100%;"></a>
-    <a href="https://react.dev/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/reactjs-48x48.png" alt="ReactJS" style="max-width: 100%;"></a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/javascript-48x48.png" alt="JavaScript" style="max-width: 100%;"></a>    
     <a href="https://www.jetbrains.com/idea" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/intellij-48x48.png" alt="IntelliJ IDEA" style="max-width: 100%;"></a>
     <a href="https://code.visualstudio.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/vscode-48x48.png" alt="Visual Studio Code" style="max-width: 100%;"></a> 
     <a href="https://nodejs.org/en" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/nodejs-48x48.png" alt="Node.js" style="max-width: 100%;"></a>
