@@ -42,5 +42,5 @@ I'm Lubomir! Nice to meet you!
 ## My GitHub Stats
 
 <a href="https://github.com/jiponov/jiponov">
-  <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiponov&langs_count=5&layout=donut&title_color=62b4f5&text_color=ffffff&bg_color=000000" />
+  <img align="center" height="220em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiponov&langs_count=8&layout=compact&title_color=62b4f5&text_color=ffffff&bg_color=000000" />
 </a>
