@@ -32,6 +32,8 @@ I'm Lubomir! Nice to meet you!
 	<a href="https://hibernate.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/hibernate-48x48.png" alt="Hibernate" style="max-width: 100%;"></a>
 	<a href="https://site.mockito.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/mockito-48x48.png" alt="Mockito" style="max-width: 100%;"></a>
 	<a href="https://junit.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/junit5-48x48.png" alt="JUnit" style="max-width: 100%;"></a>	
+	<a href="https://maven.apache.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/maven-48x48.png" alt="Maven" style="max-width: 100%;"></a>
+	<a href="https://www.json.org/json-en.html" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/json-48x48.png" alt="JSON" style="max-width: 100%;"></a>
 	<a href="https://code.visualstudio.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/vscode-48x48.png" alt="Visual Studio Code" style="max-width: 100%;"></a>
     <a href="https://nodejs.org/en" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/nodejs-48x48.png" alt="Node.js" style="max-width: 100%;"></a>
     <a href="https://expressjs.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/expressjs-48x48.png" alt="Express.js" style="max-width: 100%;"></a>
