@@ -9,8 +9,9 @@
 I'm Lubomir! Nice to meet you! 
 </p>
 
-<p align="left">🌱 I’m currently learning JavaScript & Java.</p>
-<p align="left">👨‍💻 Fun fact: I love coding!</p>
+<p align="left">👨‍💻 Java Web Developer.</p>
+<p align="left">🌱 Fun fact: I love coding!</p>
+<p align="left">🎓 Software University</p>
 <p align="left">🎓 Diplom degree: Master of Science in Civil Engineering</p>
 <p align="left">⭐ International award-winning wedding photographer</p>
 
@@ -19,14 +20,16 @@ I'm Lubomir! Nice to meet you!
 <p align="left">💼 LinkedIn: <a href="https://www.linkedin.com/in/jiponov" target="_blank" rel="noopener">linkedin.com/in/jiponov</a></p>
 <p align="left">📧 Email address: <a href="mailto:lubomir.jiponov@gmail.com">lubomir.jiponov@gmail.com</a></p>
 
-## Languages & Tools
+## Languages, Technologies & Tools
 
 <p align="left">
     <a href="https://www.oracle.com/java" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/java-48x48.png" alt="Java" style="max-width: 100%;"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/javascript-48x48.png" alt="JavaScript" style="max-width: 100%;"></a>    
    	<a href="https://spring.io/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/spring-48x48.png" alt="Spring" style="max-width: 100%;"></a>
-	<a href="https://www.jetbrains.com/idea" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/intellij-48x48.png" alt="IntelliJ IDEA" style="max-width: 100%;"></a>
+	<a href="https://www.jetbrains.com/idea" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/intellij-48x48.png" alt="IntelliJ IDEA" style="max-width: 100%;"></a>	
+	<a href="https://www.thymeleaf.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/thymeleaf-48x48.png" alt="Thymeleaf" style="max-width: 100%;"></a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/MySQL-48x48.png" alt="MySQL" style="max-width: 100%;"></a>
+	<a href="https://hibernate.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/hibernate-48x48.png" alt="Hibernate" style="max-width: 100%;"></a>
 	<a href="https://site.mockito.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/mockito-48x48.png" alt="Mockito" style="max-width: 100%;"></a>
 	<a href="https://junit.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/junit5-48x48.png" alt="JUnit" style="max-width: 100%;"></a>	
 	<a href="https://code.visualstudio.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/vscode-48x48.png" alt="Visual Studio Code" style="max-width: 100%;"></a>
