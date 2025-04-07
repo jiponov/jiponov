@@ -24,8 +24,12 @@ I'm Lubomir! Nice to meet you!
 <p align="left">
     <a href="https://www.oracle.com/java" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/java-48x48.png" alt="Java" style="max-width: 100%;"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/javascript-48x48.png" alt="JavaScript" style="max-width: 100%;"></a>    
-    <a href="https://www.jetbrains.com/idea" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/intellij-48x48.png" alt="IntelliJ IDEA" style="max-width: 100%;"></a>
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/vscode-48x48.png" alt="Visual Studio Code" style="max-width: 100%;"></a> 
+   	<a href="https://spring.io/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/spring-48x48.png" alt="Spring" style="max-width: 100%;"></a>
+	<a href="https://www.jetbrains.com/idea" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/intellij-48x48.png" alt="IntelliJ IDEA" style="max-width: 100%;"></a>
+	<a href="https://www.mysql.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/MySQL-48x48.png" alt="MySQL" style="max-width: 100%;"></a>
+	<a href="https://site.mockito.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/mockito-48x48.png" alt="Mockito" style="max-width: 100%;"></a>
+	<a href="https://junit.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/junit5-48x48.png" alt="JUnit" style="max-width: 100%;"></a>	
+	<a href="https://code.visualstudio.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/vscode-48x48.png" alt="Visual Studio Code" style="max-width: 100%;"></a>
     <a href="https://nodejs.org/en" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/nodejs-48x48.png" alt="Node.js" style="max-width: 100%;"></a>
     <a href="https://expressjs.com/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/expressjs-48x48.png" alt="Express.js" style="max-width: 100%;"></a>
     <a href="https://html.spec.whatwg.org/" target="_blank" rel="noopener nofollow noreferrer"><img src="/icons/html5-48x48.png" alt="HTML" style="max-width: 100%;"></a>
