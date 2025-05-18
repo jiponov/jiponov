@@ -11,8 +11,8 @@ I'm Lubomir! Nice to meet you!
 
 <p align="left">👨‍💻 Java Web Developer.</p>
 <p align="left">🌱 Fun fact: I love coding!</p>
-<p align="left">🎓 Diplom degree: Software Engineer with Java (Software University - SoftUni, Sofia)</p>
-<p align="left">🎓 Diplom degree: Master of Science in Civil Engineering (UACEG, Sofia)</p>
+<p align="left">🎓 Diploma for Back-End Software Engineer with Java (Software University - SoftUni, Sofia)</p>
+<p align="left">🎓 Diploma for Master of Science in Civil Engineering (UACEG, Sofia)</p>
 <p align="left">⭐ International award-winning wedding photographer</p>
 
 ## Get in touch
